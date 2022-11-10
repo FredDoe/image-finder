@@ -51,13 +51,13 @@ python3 index.py --dataset dataset --index index.csv
 [Windows]
 python search.py --index index.csv --query <path-to-image-search-query> --result-path dataset
 
-Example: python search.py --index index.csv --query queries/image_name.ext --result-path dataset
+Example: python search.py --index index.csv --query queries/123600.jpg --result-path dataset
 
 
 [Linux/macOS]
 python3 search.py --index index.csv --query <path-to-image-search-query> --result-path dataset
 
-Example: python3 search.py --index index.csv --query queries/image_name.jpg --result-path dataset
+Example: python3 search.py --index index.csv --query queries/123600.jpg --result-path dataset
 ```
 
 ## Demo :movie_camera:
