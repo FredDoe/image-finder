@@ -59,3 +59,12 @@ python3 search.py --index index.csv --query <path-to-image-search-query> --resul
 
 Example: python3 search.py --index index.csv --query queries/image_name.jpg --result-path dataset
 ```
+
+## Demo :movie_camera:
+   Search results from query:
+   
+   ![](result/query.png)
+   ![](result/results.png)
+
+## Reference :book:
+<a href="https://en.wikipedia.org/wiki/Content-based_image_retrieval">Content-Based Image Retrieval (CBIR)</a>
